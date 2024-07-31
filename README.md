@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @srividya-678
 - 👀 I’m interested in full stack
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate as intern
 - 📫 How to reach me 
 
